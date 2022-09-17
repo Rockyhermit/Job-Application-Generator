@@ -1,2 +1,2 @@
-# Job-Application-Generator
-Using basic python this project automatically generates a generalized job application
+# Madlib Game
+Using basic python this project lets you play a console based madlib game.
