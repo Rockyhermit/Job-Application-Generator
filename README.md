@@ -1,2 +1,2 @@
-# Madlib Game
-Using basic python this project lets you play a console based madlib game.
+# Resume Generator
+Basic python program that generates your resume.
